@@ -40,6 +40,11 @@ h2 {
     color: var(--primary-color);
 }
 
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
 nav,
 p,
 section,
